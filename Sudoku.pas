@@ -1,4 +1,4 @@
-program SudokuGrupo4;
+program Sudoku;
 uses crt, sysutils;
 const n = 9;
 const ruta = 'C:\Ficheros\';
